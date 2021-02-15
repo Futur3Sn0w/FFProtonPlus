@@ -42,11 +42,17 @@ Installing ProtonPlus is super simple. There are a few things to do, but I've la
 ## Changelog
 ### Release v1.0-beta.1
 Initial release. Creates the UI shown in the images below:
+<br>
 Light mode UI, centered bookmarks, seamless URLbar
+<br>
 ![ProtonPlus Light](https://i.imgur.com/AVsLmpo.png)
+<br>
 Dark mode UI
+<br>
 ![ProtonPlus Dark](https://i.imgur.com/1g6ccX7.png)
+<br>
 Rounded "menu"
+<br>
 ![Rounded menu](https://i.imgur.com/3J17QLW.png)
 
 <hr>
