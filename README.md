@@ -1,8 +1,10 @@
 # This is ProtonPlus.
-A custom userChrome.css for users with the new Firefox Proton UI enabled.
+## Version 2.0 of ProtonPlus is now available!
+Check out the changelog below for more info, or head to the releases page to download it!<br>
+<i>A custom userChrome.css for users with the new Firefox Proton UI enabled.</i>
 
-![ProtonPlus Light](https://i.imgur.com/AVsLmpo.png)
-![ProtonPlus Dark](https://i.imgur.com/1g6ccX7.png)
+![ProtonPlus 2.0 Light](https://i.imgur.com/YgOFjC9.png)
+![ProtonPlus 2.0 Dark](https://i.imgur.com/3ZJ86jF.png)
 
 ## What is Proton?
 Recently, Mozilla has revealed their upcoming UI refresh for Firefox deemed **Proton UI**.
@@ -40,6 +42,15 @@ Installing ProtonPlus is super simple. There are a few things to do, but I've la
 <hr>
 
 ## Changelog
+### Release v2.0
+This is the official 2.0 release of ProtonPlus!<br>
+ProtonPlus get's a complete rewrite from the ground up to be more stable, optimized, and enhanced!<br>
+From new colors, new shadows, new borders, and more!<br><br>
+Light Mode with new tabbar, pinned tabs, and seamless navbar:
+![ProtonPlus 2.0 Light](https://i.imgur.com/YgOFjC9.png)<br><br>
+Dark Mode with new colors, flattened UI, and rounded corners:
+![ProtonPlus 2.0 Dark](https://i.imgur.com/3ZJ86jF.png)<br>
+
 ### Release v1.0-beta.1
 Initial release. Creates the UI shown in the images below:
 <br>
